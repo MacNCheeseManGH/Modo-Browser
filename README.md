@@ -12,4 +12,6 @@ Also please exuse the fact that its called "Blacklisted Browser" when you open i
 
 "Is Modo a virus?" - No, Modo is not a Virus, its just a bunch of python files grouped together by me so I can stop have panic attacks when i see chrome is using 99% memory (We have all been there 💀)
 
+"Whats the difference between the Modo Python File and the App download?" - The App download is for those who just wish to use the browser, the python file is for those who plan on editing my code or "modding" it. I have no issue with people modding it just dont go too crazy.
+
 If you have any questions please contact me :)
