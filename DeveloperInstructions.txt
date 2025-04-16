@@ -1,0 +1,25 @@
+# Instructions
+
+Hello, this is the Developer Instructions. I will be showwing you all the imports, installs, and anything else you need before editing the code.
+
+Note - I say "pip" alot in this, the pip commandf is for windows ONLY, if you are on mac you will have to use "pip3".
+
+===================
+
+# Installs Needed...
+
+pip install PyQt5 PyQtWebEngine
+pip install requests
+pip install time
+pip install pyinstaller
+
+===================
+
+# How to convert the python file to a application...
+
+Start by typing "pip install pyinstaller" in your Windows/Mac terminal.
+Then type "pyinstaller --onefile --windowed browser.py" (switch the browser.py with whatever your code is saved as)
+
+For my mac users you WIll need to install developer tools to convert thew file, run this command "xcode-select --install"
+
+After you run these commands you should have an appliction called "Modo" in your application folder.
