@@ -1,0 +1,5 @@
+# Upcoming Features
+
+- Up to 4 Shortcut URL's Like Chrome
+- Modo AI Assistant  (BETA)
+- Modo Accounts
